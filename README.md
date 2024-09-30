@@ -1,0 +1,2 @@
+# Send_Radio_mails_byGAS
+GASで自動的にラジオメールを送ります
